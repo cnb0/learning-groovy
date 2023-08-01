@@ -1,5 +1,8 @@
 # learning-groovy
 
+- [Groovy](https://groovy-lang.org/)
+- [Groovy github](https://github.com/apache/groovy)
+
 1. Introduction to Groovy
 2. Overview of Groovy Features
 3. Setting up the Development Environment
