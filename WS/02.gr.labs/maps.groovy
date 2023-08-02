@@ -1,6 +1,6 @@
-# Maps 
+// Maps 
 
-## Basics
+// Basics
 
 ```groovy
 def cts = [ sk: 'Slovakia', ru: 'Russia', de: 'Germany', no: 'Norway' ]
@@ -38,7 +38,7 @@ capitals.eachWithIndex { k, v, i ->
 }
 ```
 
-## Sorting
+// Sorting
 
 ```groovy
 def capitals = [ Bratislava: 424207, Vilnius: 556723, Lisbon: 564657,
@@ -51,7 +51,7 @@ println capitals.sort { it.value }
 println capitals.sort { a, b -> b.value <=> a.value }
 ```
 
-## Finding 
+// Finding 
 
 ```groovy
 def users = [
